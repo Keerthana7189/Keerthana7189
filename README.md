@@ -1,16 +1,39 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Keerthana7189/Keerthana7189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring *Data Analyst* passionate about turning raw data into meaningful insights.  
+Skilled in *SQL, Power BI, Python, and Excel*, with hands-on project experience in  
+data cleaning, dashboard building, and business reporting.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+- SQL (Joins, CTEs, Window Functions, Aggregations)  
+- Power BI (Data Modeling, DAX, Visualizations, Dashboards)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Excel (Pivot Tables, VLOOKUP, Reporting)  
+
+---
+
+## 💼 Current Role
+- *Marketing & Sales Associate* at Bio Greenware Ltd (1.9+ years)  
+- Handling client communication, order management, and reporting.  
+- Applying analytical mindset to track KPIs, improve efficiency, and support decision-making.  
+
+---
+
+
+## 📌 Capstone Projects
+- *SQL — Airline On-Time Performance* 
+- *Power BI — Retail Sales Dashboard*  
+- *Python — EDA & Insights* 
+
+---
+
+## 💬 About Me
+- 🌱 I’m currently learning advanced data analytics & visualization  
+- 🤝 I’m looking to collaborate on real-world data analysis projects  
+- 📊 I’m looking for help with improving data storytelling & predictive analytics  
+
+
+
+- ⚡ Fun fact: I enjoy finding patterns in both data and everyday life!
